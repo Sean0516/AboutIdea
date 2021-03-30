@@ -1,8 +1,8 @@
-###  详细设置的断点方式
+###  详细设置的断点方式(打印堆栈信息)
 
 Ctrl   + Shift + F8 
 
-勾选Log
+勾选Log 后的 break point hit message 以及 stack trace 
 
 ### 方法|接口 断点 （直接跳转到具体实现类）
 
